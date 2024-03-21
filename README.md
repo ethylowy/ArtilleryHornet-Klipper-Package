@@ -1,8 +1,4 @@
-# Pre-compiled images
-Those files are intended to be uploaded via STM32CubeProgrammer, so You'll need to trip Your printer into DFU mode.
-I've personally made myself a momentary button in the back of the printer, so i can switch into flash mode without dissassembling the bottom of the printer every time.
-After flashing the Klipper file, just upload all the files included in configuration folder.
-
+#HOW TO FLASH KLIPPER ON HORNET
 I'll update this instruction with time, so please, be patient ;)
 
 # DISCLAIMER
