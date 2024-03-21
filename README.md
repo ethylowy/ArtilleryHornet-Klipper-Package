@@ -1,4 +1,4 @@
-#HOW TO FLASH KLIPPER ON HORNET
+# HOW TO FLASH KLIPPER ON HORNET
 I'll update this instruction with time, so please, be patient ;)
 
 # DISCLAIMER
